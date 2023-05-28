@@ -1,0 +1,31 @@
+.home-main-container {
+  background-color: #183b56;
+  min-height: 100vh;
+  color: white;
+  padding: 40px;
+}
+
+.home-header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logout-button {
+  background-color: transparent;
+  padding: 10px;
+  border: 1px solid white;
+  color: white;
+}
+
+.digital-card-container {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 100px;
+}
+
+.digital-card {
+  width: 450px;
+}
